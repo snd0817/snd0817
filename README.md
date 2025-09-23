@@ -14,7 +14,7 @@ I’m passionate about building **scalable applications** and leveraging **AI/ML
 - **[Neural Date Translation](https://github.com/snd0817/neural-date-translation)**  
   Encoder–Decoder LSTM model with **attention mechanism** for date format translation.    
 
-- **[Algorithm Visualization](https://github.com/snd0817/algovisi)**  
+- **[Algorithm Visualization](https://github.com/snd0817/algorithm-visualization)**  
   Interactive web tool to visualize algorithms with step-through controls. Built using **React** and **JavaScript** to aid learners in understanding data structures.  
 
 - **[sentence_corrector](https://github.com/snd0817/sentence_correcto)** – An NLP-based tool for sentence-level grammar correction and text enhancement. Uses transformer models and advanced text preprocessing to improve grammatical accuracy and readability. A full-stack NLP tool for grammar correction and text enhancement. Built with **FastAPI** (backend), **React** (frontend), and **Docker** (deployment). 
