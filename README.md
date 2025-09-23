@@ -10,8 +10,6 @@ I’m passionate about building **scalable applications** and leveraging **AI/ML
 ## 🔭 My Work
 
 ### 🌟 Featured Projects
-- **[Language Perfecter](https://github.com/snd0817/language-perfecter)**  
-  A full-stack NLP tool for grammar correction and text enhancement. Built with **FastAPI** (backend), **React** (frontend), and **Docker** (deployment).  
 
 - **[Neural Date Translation](https://github.com/snd0817/neural-date-translation)**  
   Encoder–Decoder LSTM model with **attention mechanism** for date format translation.    
@@ -19,7 +17,7 @@ I’m passionate about building **scalable applications** and leveraging **AI/ML
 - **[Algorithm Visualization](https://github.com/snd0817/algovisi)**  
   Interactive web tool to visualize algorithms with step-through controls. Built using **React** and **JavaScript** to aid learners in understanding data structures.  
 
-- **[sentence_corrector](https://github.com/snd0817/sentence_correcto)** – An NLP-based tool for sentence-level grammar correction and text enhancement. Uses transformer models and advanced text preprocessing to improve grammatical accuracy and readability.  
+- **[sentence_corrector](https://github.com/snd0817/sentence_correcto)** – An NLP-based tool for sentence-level grammar correction and text enhancement. Uses transformer models and advanced text preprocessing to improve grammatical accuracy and readability. A full-stack NLP tool for grammar correction and text enhancement. Built with **FastAPI** (backend), **React** (frontend), and **Docker** (deployment). 
 - **[bayes-theorem](https://github.com/snd0817/bayes-theorem)** – A repository demonstrating Bayes’ Theorem for probabilistic reasoning in machine learning. Includes Python implementations and visualizations to illustrate Bayesian inference concepts.
 - **[acessibility_analyzer](https://github.com/snd0817/acessibility_analyzer)** – A Python-based analyzer that checks websites for WCAG compliance and accessibility issues. Provides actionable feedback to improve inclusivity and user experience.
 - **[image-text-converter](https://github.com/snd0817/image-text-converter)** – An OCR-powered tool that converts images into editable text using Tesseract and Python. Showcases skills in image processing and computer vision workflows.
