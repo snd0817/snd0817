@@ -1,48 +1,53 @@
-👋 Hello, I'm Sandhya Thakur!
-I'm a passionate Python developer with a strong focus on building scalable applications and leveraging AI/ML technologies. My expertise spans the entire development lifecycle, from designing and implementing robust backend systems to creating intuitive front-end interfaces. I enjoy tackling complex challenges in natural language processing and optimization, with a particular interest in applying machine learning to real-world problems.
+# 👋 Hello, I'm Sandhya Thakur!
 
-🔭 My Work
-My portfolio showcases a blend of research-driven projects, full-stack application development, and foundational computer science concepts.
+💻 **Python Developer | AI/ML Enthusiast | Open-Source Contributor**  
+🎓 M.Tech CSE @ NIT Jalandhar | 🌏 Remote-Work Ready  
 
-Language Perfecter: A full-stack NLP tool for grammar and text enhancement. This project demonstrates my ability to build a complete application from scratch, utilizing FastAPI for the backend and React for a responsive user interface, all containerized with Docker.
+I’m passionate about building **scalable applications** and leveraging **AI/ML** to solve real-world problems. My expertise spans backend system design, front-end interfaces, and NLP/optimization challenges.
 
-Neural Date Translation: I developed and optimized an Encoder-Decoder model for date format translation. By incorporating an attention mechanism, I significantly improved accuracy to over 98%, showcasing my deep understanding of deep learning architectures.
+---
 
-Algorithm Visualization: This project provides an interactive web tool, built with React and JavaScript, to visualize core algorithms with animations and step-through controls. It's designed to improve the understanding of data structures and algorithm flow.
+## 🔭 My Work
 
-sentence_correcto: A project focused on sentence correction, which complements my work in NLP and text enhancement.
+### 🌟 Featured Projects
+- **[Language Perfecter](https://github.com/snd0817/language-perfecter)**  
+  A full-stack NLP tool for grammar correction and text enhancement. Built with **FastAPI** (backend), **React** (frontend), and **Docker** (deployment).  
 
-bayes-theorem: A repository exploring the implementation and principles of Bayes' Theorem, a core concept in probability and machine learning.
+- **[Neural Date Translation](https://github.com/snd0817/neural-date-translation)**  
+  Encoder–Decoder LSTM model with **attention mechanism** for date format translation.    
 
-acessibility_analyzer: A project focused on analyzing web accessibility, demonstrating my commitment to building inclusive and user-friendly web applications.
+- **[Algorithm Visualization](https://github.com/snd0817/algovisi)**  
+  Interactive web tool to visualize algorithms with step-through controls. Built using **React** and **JavaScript** to aid learners in understanding data structures.  
 
-image-text-converter: A tool for converting images to text, showcasing my skills in image processing and computer vision.
+- **[sentence_corrector](https://github.com/snd0817/sentence_correcto)** – An NLP-based tool for sentence-level grammar correction and text enhancement. Uses transformer models and advanced text preprocessing to improve grammatical accuracy and readability.  
+- **[bayes-theorem](https://github.com/snd0817/bayes-theorem)** – A repository demonstrating Bayes’ Theorem for probabilistic reasoning in machine learning. Includes Python implementations and visualizations to illustrate Bayesian inference concepts.
+- **[acessibility_analyzer](https://github.com/snd0817/acessibility_analyzer)** – A Python-based analyzer that checks websites for WCAG compliance and accessibility issues. Provides actionable feedback to improve inclusivity and user experience.
+- **[image-text-converter](https://github.com/snd0817/image-text-converter)** – An OCR-powered tool that converts images into editable text using Tesseract and Python. Showcases skills in image processing and computer vision workflows.
+---
 
-⚙️ Technical Skills
-I have a versatile skill set that allows me to contribute to various technical domains.
+## ⚙️ Technical Skills
+- **Programming Languages:** Python, C, C++, SQL, JavaScript  
+- **Frameworks & Libraries:** FastAPI, Flask, Django, React.js, Node.js, TensorFlow, scikit-learn, Pandas, NumPy  
+- **Systems & Tools:** Linux/Unix, Git, GitHub, Docker, REST APIs  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
 
-Programming Languages: Python, C, C++, SQL, JavaScript
+---
 
-Frameworks & Libraries: FastAPI, Flask, Django, React.js, Node.js, TensorFlow, scikit-learn, Pandas, NumPy
+## 🏆 Recognitions & Achievements
+- 🎓 Selected for **Amazon ML Summer School 2025**  
+- 🏅 Qualified for **Round 2 of Adobe India Hackathon 2025**  
+- 🏆 **GATE Qualified** in 2023 and 2024  
+- 💡 Solved **300+ problems** on GeeksforGeeks and CodeChef  
 
-Systems & Tools: Linux/Unix, Git, GitHub, Docker, REST APIs
+---
 
-Databases: PostgreSQL, MySQL, MongoDB
+## 🤝 Let’s Connect
+I’m open to **collaboration on open-source projects**—especially in **machine learning**, **NLP**, or **full-stack development**.  
 
-🏆 Recognitions & Achievements
-Selected for the Amazon ML Summer School 2025
+📧 **Email:** [tsandhya860@gmail.com](mailto:tsandhya860@gmail.com)  
+🔗 **LinkedIn:** [Sandhya Thakur](https://linkedin.com/in/sandhya-thakur-9113a2215)  
+🌐 **Portfolio:** [snd0817.github.io/Sandhya-portfolio](https://snd0817.github.io/Sandhya-portfolio/)  
 
-Qualified for Round 2 of the Adobe India Hackathon 2025
+---
 
-GATE qualified in 2023 and 2024
-
-Solved over 300 problems on competitive programming platforms like GeeksforGeeks and Codechef
-
-🤝 Let's Connect
-I'm open to collaboration on open-source projects, especially those related to machine learning, NLP, or full-stack development. Feel free to reach out to me via:
-
-Email: tsandhya860@gmail.com
-
-LinkedIn: https://linkedin.com/in/sandhya-thakur-9113a2215
-
-This README is dynamically updated to reflect my latest projects and skills.
+✨ *This profile is regularly updated with my latest projects and skills.*  
