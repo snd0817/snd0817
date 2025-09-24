@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sandhya Thakur!
 
-💻 **Python Developer | AI/ML Enthusiast | Open-Source Contributor**  
+💻 **Python Developer | AI/ML Enthusiast **  
 🎓 M.Tech CSE @ NIT Jalandhar | 🌏 Remote-Work Ready  
 
 I’m passionate about building **scalable applications** and leveraging **AI/ML** to solve real-world problems. My expertise spans backend system design, front-end interfaces, and NLP/optimization challenges.
